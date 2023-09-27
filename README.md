@@ -44,6 +44,9 @@ Data Science 📊
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?logoColor=white&labelColor=blue)](https://www.linkedin.com/in/dayana-vincent-857594265/)
 
+
+
+
  
 
 
